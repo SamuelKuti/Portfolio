@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "scripts": {
+    "dev": "tailwindcss -i src/css/styles.css -o src/css/output.css --watch"
+  },
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
